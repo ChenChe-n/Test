@@ -34,9 +34,6 @@
   <ItemGroup>
     <Image Include="img\草.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="高速精简语言.txt" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
